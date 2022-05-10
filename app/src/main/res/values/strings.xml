@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ErataniTest</string>
+    <string name="search_string">Pencarian Kata</string>
+    <string name="pemrosesan_data">Pemrosesan Data</string>
+</resources>
